@@ -1,0 +1,17 @@
+# Build e Binários
+.gradle/
+build/
+app/build/
+*.iml
+.idea/
+
+# Arquivos de sistema e logs
+local.properties
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+memory_settings.xml
+
+# Segredos (nunca suba chaves de API se houver)
+google-services.json
