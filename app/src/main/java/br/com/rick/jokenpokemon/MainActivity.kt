@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.navigation.compose.rememberNavController
 import br.com.rick.jokenpokemon.navigation.AppNavGraph
-import br.com.rick.jokenpokemon.ui.theme.JokenPokemonTheme
+import br.com.rick.jokenpokemon.navigation.ui.theme.JokenPokemonTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

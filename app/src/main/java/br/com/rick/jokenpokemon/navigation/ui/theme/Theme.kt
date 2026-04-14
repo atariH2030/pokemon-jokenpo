@@ -1,4 +1,4 @@
-package br.com.rick.jokenpokemon.ui.theme
+package br.com.rick.jokenpokemon.navigation.ui.theme
 
 import android.app.Activity
 import android.os.Build
